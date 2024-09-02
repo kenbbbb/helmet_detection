@@ -1,0 +1,6 @@
+train: E:/helmet_detection/Helmet/Train  # 訓練圖片資料夾路徑
+val: E:/helmet_detection/Helmet/Train    
+
+nc: 2  # 類別數量
+
+names: ['With Helmet', 'Without Helmet']  # 類別名稱

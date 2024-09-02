@@ -1,0 +1,10 @@
+本專案使用anaconda進行環境管理，
+要使用此系統，請安裝anaconda。接著:
+
+1.打開 Anaconda Prompt：
+在 Windows 開始菜單中搜索 "Anaconda Prompt" 並打開它。
+導航到 environment.yml 文件所在的目錄：(也就是專案根目錄)
+
+2.執行創建環境的命令：
+使用以下命令根據 environment.yml 文件創建環境：
+conda env create -f environment.yml
